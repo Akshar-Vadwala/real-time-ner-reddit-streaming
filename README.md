@@ -156,7 +156,7 @@ bin/kibana
 | 15 min        | SNAP, House, WSB            |
 | 20 min        | ACA, Burry, Trump           |
 | 25 min        | SNAP, Trump, LMAO           |
-| 30 min        | Please (11), Burry (4), SNAP (3), Trump (3) |
+| 30 min        | Please (11), Burry (7), Trump (6), SNAP (6) |
 
 ---
 
